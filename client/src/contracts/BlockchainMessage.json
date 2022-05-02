@@ -1,0 +1,74 @@
+{
+  "contractName": "BlockchainMessage",
+  "abi": [],
+  "metadata": "{\"compiler\":{\"version\":\"0.8.13+commit.abaa5c0e\"},\"language\":\"Solidity\",\"output\":{\"abi\":[],\"devdoc\":{\"kind\":\"dev\",\"methods\":{},\"version\":1},\"userdoc\":{\"kind\":\"user\",\"methods\":{},\"version\":1}},\"settings\":{\"compilationTarget\":{\"project:/contracts/BlockchainMessage.sol\":\"BlockchainMessage\"},\"evmVersion\":\"london\",\"libraries\":{},\"metadata\":{\"bytecodeHash\":\"ipfs\"},\"optimizer\":{\"enabled\":false,\"runs\":200},\"remappings\":[]},\"sources\":{\"project:/contracts/BlockchainMessage.sol\":{\"keccak256\":\"0xaf83cece16d2be775a9b6878dcc1470f07e891e4515a62c9dc963bc365997643\",\"license\":\"MIT\",\"urls\":[\"bzz-raw://c8eaaee9b5c6d6d2fae6567b0446bf8dd6734914d30555c5337dabfea4908dbb\",\"dweb:/ipfs/QmakLUZGSNSMMVKRUgCHV4rCAEPPrJTzTqG28dobrjfD5H\"]}},\"version\":1}",
+  "bytecode": "0x6080604052348015600f57600080fd5b50603f80601d6000396000f3fe6080604052600080fdfea26469706673582212202a275e33061bd810001af1261d497c8762c4954d902c3ab6dc68944d4d38125564736f6c634300080d0033",
+  "deployedBytecode": "0x6080604052600080fdfea26469706673582212202a275e33061bd810001af1261d497c8762c4954d902c3ab6dc68944d4d38125564736f6c634300080d0033",
+  "immutableReferences": {},
+  "generatedSources": [],
+  "deployedGeneratedSources": [],
+  "sourceMap": "57:30:0:-:0;;;;;;;;;;;;;;;;;;;",
+  "deployedSourceMap": "57:30:0:-:0;;;;;",
+  "source": "// SPDX-License-Identifier: MIT\npragma solidity 0.8.13;\n\ncontract BlockchainMessage {\n}\n",
+  "sourcePath": "/Users/bryanguillen/playground/blockchain-message/contracts/BlockchainMessage.sol",
+  "ast": {
+    "absolutePath": "project:/contracts/BlockchainMessage.sol",
+    "exportedSymbols": {
+      "BlockchainMessage": [
+        2
+      ]
+    },
+    "id": 3,
+    "license": "MIT",
+    "nodeType": "SourceUnit",
+    "nodes": [
+      {
+        "id": 1,
+        "literals": [
+          "solidity",
+          "0.8",
+          ".13"
+        ],
+        "nodeType": "PragmaDirective",
+        "src": "32:23:0"
+      },
+      {
+        "abstract": false,
+        "baseContracts": [],
+        "canonicalName": "BlockchainMessage",
+        "contractDependencies": [],
+        "contractKind": "contract",
+        "fullyImplemented": true,
+        "id": 2,
+        "linearizedBaseContracts": [
+          2
+        ],
+        "name": "BlockchainMessage",
+        "nameLocation": "66:17:0",
+        "nodeType": "ContractDefinition",
+        "nodes": [],
+        "scope": 3,
+        "src": "57:30:0",
+        "usedErrors": []
+      }
+    ],
+    "src": "32:56:0"
+  },
+  "compiler": {
+    "name": "solc",
+    "version": "0.8.13+commit.abaa5c0e.Emscripten.clang"
+  },
+  "networks": {},
+  "schemaVersion": "3.4.7",
+  "updatedAt": "2022-05-02T14:13:11.263Z",
+  "devdoc": {
+    "kind": "dev",
+    "methods": {},
+    "version": 1
+  },
+  "userdoc": {
+    "kind": "user",
+    "methods": {},
+    "version": 1
+  }
+}
